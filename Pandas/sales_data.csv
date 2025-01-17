@@ -1,0 +1,9 @@
+Order_ID,Sales_Region,Regions,Order_Date,Quantity,Unit_Price,Sales,Target
+101,East,North America,2023-01-15,10,50,500,1000
+102,West,North America,2023-02-10,5,100,500,800
+103,East,North America,2023-03-05,8,75,600,1200
+104,North,North America,2023-04-20,6,60,360,900
+105,South,North America,2023-05-25,2,120,240,700
+106,West,North America,2023-06-30,4,90,360,850
+107,East,North America,2023-07-15,7,80,560,1100
+108,North,North America,2023-08-20,3,70,210,950
